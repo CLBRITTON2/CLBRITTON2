@@ -9,7 +9,7 @@
 </h1>
 
 🔭 I'm currently participating in the Microsoft Software and Systems academy.  
-:seedling: My focus is C#, but I also enjoy learning Unity, and Git during my free time.  
+:seedling: My focus is C#, but I also enjoy learning Unity and Git during my free time.  
 :mailbox: For any questions or inqueries about my projects you can reach me via Linkedin.
 
 <div id="badges" align="center">
