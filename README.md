@@ -45,6 +45,6 @@
 :chart_with_upwards_trend: My Stats :
 </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLBRITTON2&include_all_commits=true&count_private=true&show_icons=true&theme=merko)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CLBRITTON2&include_all_commits=true&count_private=true&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLBRITTON2&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLBRITTON2&hide=ShaderLab&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
