@@ -34,12 +34,3 @@
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
-
----
-<h3>
-:chart_with_upwards_trend: My Stats :
-</h3>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CLBRITTON2&include_all_commits=true&count_private=true&show_icons=true&theme=merko)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLBRITTON2&hide=ShaderLab&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
