@@ -13,7 +13,7 @@
 </h3>
 
 - :computer: I'm a Software Engineer from the United States
-- 🔭 I'm currently participating in the Microsoft Software and Systems Academy  
+- 🔭 I recently completed the Microsoft Software and Systems Academy  
 - :mailbox: For any questions or inqueries about my projects you can reach me via [LinkedIn](https://www.linkedin.com/in/christopher-britton/)
 
 ---
