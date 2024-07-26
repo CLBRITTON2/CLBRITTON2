@@ -15,6 +15,6 @@
 - I'm a Software Engineer from the United States
 - Lover of BJJ, weightlifting, archery, and fitness in general
 - Liefelong student
-- 
+
 <h3>
 
