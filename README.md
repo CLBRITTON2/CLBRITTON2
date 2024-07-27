@@ -13,7 +13,7 @@
 </h3>
 
 - I'm a Software Engineer from the United States
-- Lover of BJJ, weightlifting, archery, and fitness in general
+- BJJ/weightlifting/archery fanatic
 - Liefelong student
 
 <h3>
