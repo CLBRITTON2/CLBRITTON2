@@ -7,10 +7,7 @@
 - 🌟 Lifelong learner always exploring new technology and challenges
 
 ## Stats
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLBRITTON2&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5" alt="Top Languages"/>
-</div>
-
+<img alt="CLBRITTON2's Top Languages" src="https://github-readme-stats-blue-omega-39.vercel.app/api/top-langs/?username=CLBRITTON2&layout=compact&langs_count=10&hide_border=false&theme=rose_pine&size_weight=0.5&count_weight=0.5&hide=css&include_all_commits=true&custom_title=Languages%20Used%20(excluding%20CSS)"/>
 
 ## Connect
 > <a href="https://www.linkedin.com/in/christopher-britton/">View my LinkedIn</a>
