@@ -1,12 +1,10 @@
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=1000&color=4285F4&width=435&lines=Hello%2C+I'm+Chris." alt="Software Developer"/>
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=25&duration=3000&pause=3000&color=4285F4&vCenter=true&width=300&lines=Hi%2C+I'm+Chris." alt="Typing SVG" /></a>
 
 ## About Me
 - 🎓 Currently studying Computer Science at Western Governors University (WGU)
-- 💻 Enthusiast of C++, Go, Linux, OSS, and developer tools in general
+- 💻 Focused on C++, Go, Linux, OSS, and developer tools in general
 - 🏋️‍♂️ Hobbies include strength training, jiu-jitsu, and archery
-- 🌟 Lifelong learner always exploring new tech and challenges
+- 🌟 Lifelong learner always exploring new technology and challenges
 
 ## Stats
 <div>
