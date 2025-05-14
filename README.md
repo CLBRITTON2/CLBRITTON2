@@ -11,4 +11,4 @@
 <img alt="CLBRITTON2's Top Languages" src="https://github-readme-stats-blue-omega-39.vercel.app/api/top-langs/?username=CLBRITTON2&layout=compact&langs_count=8&hide_border=false&theme=rose_pine&size_weight=0.5&count_weight=0.5&include_all_commits=true&custom_title=Languages%20Used%20&exclude_repo=BulkyBook,JiuJitsuTracker"/>
 
 ## Connect
-> <a href="https://www.linkedin.com/in/christopher-britton/">View my LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-britton/)
