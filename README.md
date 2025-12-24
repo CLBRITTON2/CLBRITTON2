@@ -2,7 +2,6 @@
 
 ## About Me
 - USMC veteran
-- Currently studying Computer Science at Western Governors University (WGU)
 - Focused on Go, Linux, OSS, and developer tools
 - Hobbies include strength training, jiu-jitsu, and archery
 - Lifelong learner always exploring new technology and challenges
