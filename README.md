@@ -2,7 +2,7 @@
 
 ## About Me
 - USMC veteran
-- Focused on Go, Linux, OSS, and developer tools
+- Go, Linux, OSS, and developer tools enjoyer
 - Hobbies include strength training, jiu-jitsu, and archery
 - Lifelong learner always exploring new technology and challenges
 
