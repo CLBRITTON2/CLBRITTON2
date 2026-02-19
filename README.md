@@ -3,7 +3,7 @@
 ## About Me
 - USMC veteran
 - Go, Linux, OSS, and developer tools enjoyer
-- Hobbies include strength training, jiu-jitsu, and archery
+- Weights, jiu-jitsu, and archery = cool
 - Lifelong learner always exploring new technology and challenges
 
 ## Stats
