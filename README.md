@@ -1,10 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=25&duration=3000&pause=3000&color=4285F4&vCenter=true&width=300&lines=Hi%2C+I'm+Chris." alt="Typing SVG" /></a>
-
-## About Me
-- USMC veteran
-- Go, Linux, OSS, and developer tools enjoyer
-- Weights, jiu-jitsu, and archery = cool
-- Lifelong learner always exploring new technology and challenges
+# Chris Britton
+- Dad  
+- USMC veteran  
+- Go, Linux, and developer tools enjoyer  
+- Weights, jiu-jitsu, and archery = cool  
+- Open source advocate
 
 ## Stats
 <!--- bulky book and jiujitsu tracker demolish stats with CSS and don't accurately represent what I work on these days so they're excluded -->
